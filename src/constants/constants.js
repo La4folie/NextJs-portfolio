@@ -4,13 +4,13 @@ export const projects = [
         image: '/images/todoListScreenshot.jpg',
         tags: ['TypeScript', 'React', 'Node'],
         visit: 'https://github.com/La4folie/TodoList',
-        id: 0,
+        id: 4,
     },
     {
         title: 'Cleaning company',
         image: '/images/capiClean.png',
         tags: ['React', 'JavaScript'],
-        id: 1,
+        id: 3,
     },
     {
         title: 'Personal Blog',
@@ -23,14 +23,14 @@ export const projects = [
         image: '/images/faynlab.png',
         tags: ['WordPress', 'JavaScript', 'PHP'],
         visit: 'https://www.faynlab.com',
-        id: 3,
+        id: 1,
     },
     {
         title: 'Website for an agro-cultural company',
         image: '/images/tekvica.png',
         tags: ['Wordpress', 'Javascript', 'PHP'],
         visit: 'https://tekvica.com',
-        id: 4,
+        id: 0,
     }
 ];
 
